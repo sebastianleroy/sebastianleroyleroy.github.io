@@ -1,10 +1,15 @@
 html,
 body {
+  text-align: center;
   color: black;  
-  background-color: lightblue;
+  background-color: white;
 }
 h1 {
 color: red;
+}
+p {
+  color: black;
+  background-color:white;
 }
 
 
